@@ -5,11 +5,11 @@ Dupla: Rafaella Medeiros Trexler Mourão e Pedro Luís Anghievisck
 
 # Diagrama de Classes
 
-<img src="Disgrama de classes.png" height="250px">
+<img src="img-1e2bim/Disgrama de classes.png" height="250px">
 
 # DER
 
-<img src="DER.png" height="250px">
+<img src="img-1e2bim/DER.png" height="250px">
 
 # Descrição do App
 
