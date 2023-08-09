@@ -1141,7 +1141,7 @@ A nossa API oferece um sistema de armazenamento para os jornais favoritos dos us
 Combinando conveniência e funcionalidade, a nossa API proporciona uma experiência de leitura personalizada e intuitiva para os usuários.
 
 ## Diagrama de Classes
-<img src="img-3bim/Diagrama de Classes.jpeg" height="250px">
+<img src="img-3bim/Diagrama de Classes.jpeg" height="500px">
 
 ## Modelo Entidade-Relacionamento (MER)
-<img src="img-3bim/MER.jpeg" height="250px">
+<img src="img-3bim/MER.jpeg" height="500px">
