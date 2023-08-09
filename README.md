@@ -1,5 +1,4 @@
-Dupla: Rafaella Medeiros Trexler Mourão e Lucas dos Santos Silva
-
+Dupla: Rafaella Medeiros Trexler Mourão e Pedro Luís Anghievisck
 [Design](https://design.penpot.app/#/view/eed6a2fa-084f-808f-8002-58b5f5d6a4c6?page-id=eed6a2fa-084f-808f-8002-58b5f5d6a4c7&section=interactions&index=0&share-id=5d8c4d0a-1e64-8116-8002-74622cab1a29)
 
 [Vídeo](https://youtube.com/shorts/dZXKlwzCGLU?feature=share)
