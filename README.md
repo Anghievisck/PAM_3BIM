@@ -1147,4 +1147,4 @@ Combinando conveniência e funcionalidade, a nossa API proporciona uma experiên
 <img src="img-3bim/DER.jpeg" height="500px">
 
 ## Modelo Entidade-Relacionamento (MER)
-<img src="img-3bim/MER.png" height="500px">
+<img src="img-3bim/MER.jpg" height="500px">
