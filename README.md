@@ -1143,5 +1143,8 @@ Combinando conveniência e funcionalidade, a nossa API proporciona uma experiên
 ## Diagrama de Classes
 <img src="img-3bim/Diagrama de Classes.jpeg" height="500px">
 
-## Modelo Entidade-Relacionamento (MER)
+## Diagrama Entidade-Relacionamento (DER)
 <img src="img-3bim/MER.jpeg" height="500px">
+
+## Modelo Entidade-Relacionamento (MER)
+<img src="" height="500px">
