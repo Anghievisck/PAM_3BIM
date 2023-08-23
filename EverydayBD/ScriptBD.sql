@@ -43,4 +43,4 @@ Insert into tbFavoritos values (1, 1);
 select * from tbJornal;
 select * from tbUser;
 select * from tbAutor;
-select * from tbFavoritos inner join tbUser where tbFavoritos.IdUser = tbUser.UserID and inner join tbJornal where tbFavoritos.IdJornal = tbJornal.JornalID;
+select * from tbFavoritos inner join tbUser on tbFavoritos.IdUser = tbUser.UserID inner join (select * from tbAutor inner join tbJornal on tb.IdJornal = tbJornal.JornalID;
