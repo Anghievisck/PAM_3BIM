@@ -5,6 +5,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
+import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -22,15 +23,12 @@ import com.example.storage.DatabaseHelper;
 import com.example.validations.CurrencyChecks;
 
 public class MainActivity extends AppCompatActivity implements LoaderManager.LoaderCallbacks<MainPageModel> {
-
   private TextView adviceSentence;
   private TextView currencySentense;
 
   private EditText txtConvertFrom;
   private EditText txtConvertTo;
-
   private TextView climateSentence;
-
   private DatabaseHelper db;
 
   @Override
@@ -46,7 +44,8 @@ public class MainActivity extends AppCompatActivity implements LoaderManager.Loa
         txtConvertFrom = findViewById(R.id.convert_from);
         txtConvertTo = findViewById(R.id.convert_to);
 
-       if (getSupportLoaderManager().getLoader(0) != null) {
+
+      if (getSupportLoaderManager().getLoader(0) != null) {
             getSupportLoaderManager().initLoader(0, null, this);
         }
 
@@ -58,6 +57,7 @@ public class MainActivity extends AppCompatActivity implements LoaderManager.Loa
       getSupportLoaderManager().restartLoader(0, query, this);
 
       db = new DatabaseHelper(this);
+
   }
 
     @NonNull
@@ -109,6 +109,10 @@ public class MainActivity extends AppCompatActivity implements LoaderManager.Loa
 
     public void toHistoryActivity(View v){
         Intent intent = new Intent(this, history.class);
+        startActivity(intent);
+    }
+    public void toJournalList(View v){
+        Intent intent = new Intent(this, JournalList.class);
         startActivity(intent);
     }
 }

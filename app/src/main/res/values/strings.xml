@@ -44,6 +44,9 @@
         vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
     </string>
 
+    <string name="MeusJornais">Meus Jornais</string>
+    <string name="Jornais">Jornais</string>
+
     <string-array name="avaible_coins">
         <item>BRL</item>
         <item>USD</item>
