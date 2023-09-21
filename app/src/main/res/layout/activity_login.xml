@@ -54,8 +54,11 @@
         android:layout_height="wrap_content"
         android:text="@string/OR"
         android:textSize="20dp"
-        tools:layout_editor_absoluteX="21dp"
-        tools:layout_editor_absoluteY="296dp" />
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.423" />
 
     <TextView
         android:id="@+id/txtQuery2"

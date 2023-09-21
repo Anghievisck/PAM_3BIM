@@ -120,6 +120,11 @@ public class MainActivity extends AppCompatActivity implements LoaderManager.Loa
       Intent i = new Intent(this, Login.class);
       startActivity(i);
     }
+
+    public void toAddJournals(View v){
+      Intent i = new Intent(this, AddJournals.class);
+      startActivity(i);
+    }
 }
 
 class MainPageModel{

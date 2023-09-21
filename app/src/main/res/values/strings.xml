@@ -54,11 +54,12 @@
     <string name="Query1">Login</string>
     <string name="Register">Register</string>
     <string name="addJournals">Add Journals</string>
-    <string name="OR">------------------------------OR------------------------------</string>
+    <string name="OR">--------------------------OR--------------------------</string>
     <string name="Link">Insert the url</string>
     <string name="Type">Category</string>
     <string name="Nickname">Add a nickname</string>
     <string name="btnAddJournal">Add a new Journal</string>
+
 
     <string-array name="avaible_coins">
         <item>BRL</item>
