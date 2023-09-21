@@ -44,8 +44,21 @@
         vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
     </string>
 
-    <string name="MeusJornais">Meus Jornais</string>
-    <string name="Jornais">Jornais</string>
+    <string name="MeusJornais">My Journals</string>
+    <string name="Login">Username/Email</string>
+    <string name="BtnLogin">Log In</string>
+    <string name="Pwd">Password</string>
+    <string name="ConfirmPwd">Confirm your password</string>
+    <string name="Email">Email</string>
+    <string name="User">Username</string>
+    <string name="Query1">Login</string>
+    <string name="Register">Register</string>
+    <string name="addJournals">Add Journals</string>
+    <string name="OR">------------------------------OR------------------------------</string>
+    <string name="Link">Insert the url</string>
+    <string name="Type">Category</string>
+    <string name="Nickname">Add a nickname</string>
+    <string name="btnAddJournal">Add a new Journal</string>
 
     <string-array name="avaible_coins">
         <item>BRL</item>
